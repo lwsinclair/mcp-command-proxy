@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hormold-mcp-command-proxy-badge.png)](https://mseep.ai/app/hormold-mcp-command-proxy)
+
 # MCP Command Proxy
 
 An MCP (Model Context Protocol) server that acts as a proxy for CLI commands, specifically designed for Expo development but adaptable for any command-line application.
